@@ -1,0 +1,61 @@
+ h1, h2, h3 {
+        font-family: 'Eczar', serif ; font-weight: 800;
+    }
+    body, p, a {
+        font-family: 'Eczar', serif ; font-weight: 400;
+    }
+    body {
+        width: 100%;
+    }
+    header {
+        height: 100px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        border-collapse: collapse;
+        background-color: grey;
+    }
+    section {
+        display: inline-block;
+        width: 300px;
+        margin:auto;
+        float: left;
+        padding: 20px;
+    }
+    article {
+        display: inline-block;
+    }
+    .div1 {
+        align-content: center;
+        max-width: 1030px;
+        margin: auto
+    }
+    img {
+        width: 300px;
+    }
+    footer{
+        display: inline-block;
+        width: 300px;
+        float: left;
+    }
+    nav {
+        padding-top: 10px;
+        background-color: black;
+        height: 30px;
+        text-align: right;
+    }
+    a {
+        color: grey;
+        padding-right: 10px;
+        text-decoration: none;
+    }
+    .a1 {
+        text-align: left;
+        color: grey;
+        float: left;
+    }
+    .type1 {
+        font-weight: bold;
+        color: black;
+    }

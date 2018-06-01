@@ -1,3 +1,11 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: misch
+ * Date: 1-6-2018
+ * Time: 10:24
+ */
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,20 +40,17 @@
     </header>
     <br>
     <br>
-    <h2>Playlists from db</h2>
-    <section>
-        <a href="play1.php"><img src="images/img1.jpg" alt="pic1"></a>
-    </section>
-    <section>
-        <a href="play2.php"><img src="images/img1.jpg" alt="pic3"></a>
-    </section>
-    <section>
-        <a href="play3.php"><img src="images/img1.jpg" alt="pic3"></a>
-    </section>
-    <section>
-        <a href="play4.php"><img src="images/img1.jpg" alt="pic4"></a>
-    </section>
-
+    <h2>Playlist</h2>
+    <?php
+        $muzikanten = array("lol", "loller", "lollest");
+        echo "<ul>";
+        foreach ($muzikanten as $muzikant) {
+        $i = 1;
+        echo "<li>". "<a href='play2v".$i.".php'>$muzikant</a>" ."</li>";
+        $i++;
+    }
+        echo "<ul>";
+        ?>
 </div>
 </body>
 <div class="div1">
@@ -54,3 +59,6 @@
     </footer>
 </div>
 </html>
+
+
+
