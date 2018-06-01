@@ -8,6 +8,6 @@
 
 $dbServername = "localhost";
 $dbUsername = "root";
-$dbPassword = "Mischa2017"
-$dbName = ""
+$dbPassword = "Mischa2017";
+$dbName = "challengephpdatabase"
 ?>

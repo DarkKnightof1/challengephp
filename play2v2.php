@@ -40,8 +40,11 @@
     </header>
     <br>
     <br>
-    <h2>Video</h2>
-    <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    <h2>verwatch Remix - Trailer Theme Epic Orchestral Remix</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/beZhAL_Fcx8">
+    </iframe>
+    <h2>Jump Up, Super Star! Remix- Super Mario Odyssey- The Living Tombstone</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/1bZtCt_Siro">
     </iframe>
 
 </div>

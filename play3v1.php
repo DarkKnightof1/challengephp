@@ -40,8 +40,11 @@
     </header>
     <br>
     <br>
-    <h2>Video</h2>
-    <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    <h2>Most Epic Battle Music: "You Better Run" by Audiomachine</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/FeUu-2igRqo">
+    </iframe>
+    <h2>Most Epic Battle Music: "Audiomachine - By the Hand of the Mortal (Epic Heroic Battle Action)</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/Ux7i7QBMPDo">
     </iframe>
 
 </div>

@@ -40,8 +40,8 @@
     </header>
     <br>
     <br>
-    <h2>Video</h2>
-    <iframe width="420" height="345" src="https://www.youtube.com/watch?v=-ez5xl6VoGM">
+    <h2>Funky Jazz | Saxophone & Harmonica Blues | Blues Guitar | Slow Blues, 12 Bar Blues | Blues Harmonica</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/ez5xl6VoGM">
     </iframe>
 
 </div>

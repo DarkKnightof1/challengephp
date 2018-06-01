@@ -40,8 +40,11 @@
     </header>
     <br>
     <br>
-    <h2>Video</h2>
-    <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    <h2>Pacific Rim Theme "Epic Rock" Cover/Remix (Little V)</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/UhE42Noj1Lw">
+    </iframe>
+    <h2>STAR WARS - The Force Theme [EPIC METAL COVER] (Little V)</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/Xwsnt1fJCmo">
     </iframe>
 
 </div>

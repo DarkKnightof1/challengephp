@@ -40,8 +40,11 @@
     </header>
     <br>
     <br>
-    <h2>Video</h2>
-    <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    <h2>Nightcore - Angel With A Shotgun</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/cvaIgq5j2Q8">
+    </iframe>
+    <h2>Nightcore - All I Ever Wanted</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/akynpGDJ7x4">
     </iframe>
 
 </div>

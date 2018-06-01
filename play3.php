@@ -11,7 +11,7 @@
 <head>
     <link rel="stylesheet" type="text/css" href="Cssstyle1.css">
     <meta charset="utf-8">
-    <title>SpotiTube</title>
+    <title>Epic Music Playlist</title>
 </head>
 
 <!--
@@ -42,7 +42,7 @@
     <br>
     <h2>Playlist</h2>
     <?php
-    $muzikanten = array("lol", "loller", "lollest");
+    $muzikanten = array("Audiomachine", "Little V", "Epic Rock");
     echo "<ul>";
     foreach ($muzikanten as $muzikant) {
         $i = 1;

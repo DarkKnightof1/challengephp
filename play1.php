@@ -11,7 +11,7 @@
 <head>
     <link rel="stylesheet" type="text/css" href="Cssstyle1.css">
     <meta charset="utf-8">
-    <title>SpotiTube</title>
+    <title>SpotiTube Jazz Playlist</title>
 </head>
 
 <!--
@@ -42,7 +42,7 @@
     <br>
     <h2>Playlist</h2>
     <?php
-    $muzikanten = array("lol", "loller", "lollest");
+    $muzikanten = array("The Very Best of Jazz - 50 Unforgettable Tracks", "Funky Jazz | Saxophone & Harmonica Blues | Blues Guitar | Slow Blues, 12 Bar Blues | Blues Harmonica", "Dave Brubeck - Take Five");
     echo "<ul>";
     foreach ($muzikanten as $muzikant) {
         $i = 1;

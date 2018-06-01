@@ -40,8 +40,11 @@
     </header>
     <br>
     <br>
-    <h2>Video</h2>
-    <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    <h2>EPIC ROCK | ''Eye of the Storm'' by WattWhite</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/OJniq9KuDAQ">
+    </iframe>
+    <h2>EPIC ROCK | ''Rise Up'' by Extreme Music</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/sufGw1_VrFQ">
     </iframe>
 
 </div>

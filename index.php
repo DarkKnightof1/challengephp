@@ -35,16 +35,24 @@
     <br>
     <h2>Playlists from db</h2>
     <section>
-        <a href="play1.php"><img src="images/img1.jpg" alt="pic1"></a>
+        <h2>Jazz</h2>
+        <br>
+        <a href="play1.php"><img src="images/img3.png" alt="pic3"></a>
     </section>
     <section>
-        <a href="play2.php"><img src="images/img1.jpg" alt="pic3"></a>
+        <h2>Remix</h2>
+        <br>
+        <a href="play2.php"><img src="images/img1.jpg" alt="pic1"></a>
     </section>
     <section>
-        <a href="play3.php"><img src="images/img1.jpg" alt="pic3"></a>
+        <h2>Epic Muzic</h2>
+        <br>
+        <a href="play3.php"><img src="images/img4.jpg" alt="pic4"></a>
     </section>
     <section>
-        <a href="play4.php"><img src="images/img1.jpg" alt="pic4"></a>
+        <h2>Nightcore</h2>
+        <br>
+        <a href="play4.php"><img src="images/img2.jpg" alt="pic2"></a>
     </section>
 
 </div>

@@ -11,7 +11,7 @@
 <head>
     <link rel="stylesheet" type="text/css" href="Cssstyle1.css">
     <meta charset="utf-8">
-    <title>SpotiTube</title>
+    <title>Modern Remix Playlist</title>
 </head>
 
 <!--
@@ -42,7 +42,7 @@
     <br>
     <h2>Playlist</h2>
     <?php
-        $muzikanten = array("lol", "loller", "lollest");
+        $muzikanten = array("SharaX", "Game Theme Remix", "Normal Song Remix");
         echo "<ul>";
         foreach ($muzikanten as $muzikant) {
         $i = 1;

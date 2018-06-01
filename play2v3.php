@@ -40,8 +40,11 @@
     </header>
     <br>
     <br>
-    <h2>Video</h2>
-    <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    <h2>Bruno Mars - Uptown Funk (Arthur White & Tony Rockwell Remix)</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/IlIg8eChiZY">
+    </iframe>
+    <h2>TheFatRat - Monody (Remix for Rolling Sky)</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/5fQC6qsCzhg">
     </iframe>
 
 </div>

@@ -40,8 +40,11 @@
     </header>
     <br>
     <br>
-    <h2>Video</h2>
-    <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    <h2>Nightcore - Tetris (Remix)</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/2EDp0IMKPP0">
+    </iframe>
+    <h2>Nightcore - Gangsta (From Suicide Squad) [HQ]</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/edmbed/Yv_ET9vHcP8">
     </iframe>
 
 </div>

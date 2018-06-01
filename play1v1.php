@@ -40,8 +40,8 @@
     </header>
     <br>
     <br>
-    <h2>Video</h2>
-    <iframe width="420" height="345" src="https://www.youtube.com/watch?v=9f6V-QehbU4">
+    <h2>The Very Best of Jazz - 50 Unforgettable Tracks</h2>
+    <iframe width="420" height="345" src="https://www.youtube.com/embed/9f6V-QehbU4">
     </iframe>
 
 </div>
